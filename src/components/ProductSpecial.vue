@@ -22,3 +22,14 @@ const props = defineProps({
         </div>
     </div>
 </template>
+
+<style scoped>
+.card {
+    transition: all 0.3s;
+}
+
+.card:hover .link {
+    text-decoration: underline;
+}
+
+</style>
