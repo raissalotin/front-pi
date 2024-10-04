@@ -1,5 +1,5 @@
 <script setup>
-//import ContainerComp from '@/components/ContainerComp.vue'
+import ContainerComp from '@/components/ContainerComp.vue'
 </script>
 <template>
   <ContainerComp margin class="my-32">
