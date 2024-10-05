@@ -1,7 +1,9 @@
 <script setup>
+
 </script>
 <template>
 <main class="w-screen h-screen flex justify-center items-center">
+    
     <div class="text-center max-w-sm md:max-w-lg">
         <router-link to="/">
             <img src="../assets/img/logo.png" alt="logo dream light" class="w-32 mx-auto mb-16">

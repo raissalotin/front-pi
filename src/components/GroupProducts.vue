@@ -9,7 +9,7 @@ const props = defineProps({
     },
 })
 
-const products = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, props.type] // arrumar isso cm pinia, pegar os produtos da categoria cm o props.type q retorna a categoria
+const products = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, props.type] 
 </script>
 <template>
     <ContainerComp>
