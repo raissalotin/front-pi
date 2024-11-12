@@ -55,6 +55,7 @@ const openBag = () => {
         <router-link to="/category-women" class="font-normal text-2xl py-2 link">Women</router-link>
         <router-link to="/category/new-collection" class="font-normal text-2xl py-2 link" >New Collection</router-link>
         <router-link to="/about" class="font-normal text-2xl py-2 link" >About Us</router-link>
+        <router-link to="/products" class="font-normal text-2xl py-2 link" >All Products</router-link>
       </div>
       <div class="flex flex-col gap-4 pb-8">
         <router-link to="/" class="text-xl py-2 link">Sign in</router-link>
